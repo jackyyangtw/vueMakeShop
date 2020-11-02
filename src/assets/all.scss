@@ -1,0 +1,8 @@
+// 客製化的scss檔案
+
+//載入函式
+@import "~bootstrap/scss/functions";
+//載入變數
+@import "./helpers/_variables";
+@import "~bootstrap/scss/bootstrap";
+@import "./_dashboard";
